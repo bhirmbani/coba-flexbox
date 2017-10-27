@@ -1,0 +1,11 @@
+.parent {
+  display: flex;
+  list-style: none;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+  background-color: #8cacea;
+  margin: 8px;
+}
