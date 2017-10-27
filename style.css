@@ -1,6 +1,7 @@
 .parent {
   display: flex;
   list-style: none;
+  flex-direction: column;
 }
 
 .child {
