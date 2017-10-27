@@ -1,8 +1,7 @@
 .parent {
   display: flex;
   list-style: none;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
 }
 
 .child {
